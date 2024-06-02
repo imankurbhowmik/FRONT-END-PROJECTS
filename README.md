@@ -1,2 +1,2 @@
 # JAVASCRIPT-PROJECTS
-Basic projects to learn JS
+A repo containing front-end projects made using html, css & js
